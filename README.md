@@ -1,6 +1,8 @@
 Análisis de datos de empresa de retail enfocada en sportswear
-Este portafolio está diseñado para ser entendido
-tanto por perfiles técnicos como no técnicos.
+
+> Este portafolio está diseñado para ser entendido
+> tanto por perfiles técnicos como no técnicos.
+
 ## Portafolio de Analítica de Datos – MAJA Sportswear
 
 ## ¿Para qué sirve este portafolio?
