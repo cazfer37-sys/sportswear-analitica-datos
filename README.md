@@ -1,31 +1,26 @@
-Análisis de datos de empresa de retail enfocada en sportswear
+# Portafolio de Análisis de Datos – MAJA Sportswear
 
-> Este portafolio está diseñado para ser entendido
-> tanto por perfiles técnicos como no técnicos.
+## Contexto
+MAJA Sportswear es una empresa de retail deportivo con presencia en Sinaloa.
+Este portafolio simula cómo un analista de datos puede apoyar la toma de decisiones
+comerciales, operativas y estratégicas.
 
-## Portafolio de Analítica de Datos – MAJA Sportswear
+## Objetivo del portafolio
+Demostrar la capacidad de transformar datos de ventas, tiendas e inventario
+en información clara y accionable para el negocio.
 
-## ¿Para qué sirve este portafolio?
-Este portafolio muestra cómo el uso de datos puede ayudar a MAJA Sportswear
-a tomar mejores decisiones sobre:
-- Apertura y operación de tiendas
-- Control y rotación de inventario
-- Rentabilidad por canal de venta
-- Planeación de la demanda
+## Fuente de datos
+Los datos utilizados son simulados, pero fueron diseñados para reflejar
+la estructura real que una empresa como MAJA Sportswear podría manejar.
 
-Todo el análisis está pensado para el contexto de MAJA Sportswear
-en Culiacán, Sinaloa, y su crecimiento nacional.
+## Proyectos incluidos
+- Análisis de desempeño de tiendas
+- Optimización de inventario
+- Análisis de rentabilidad por canal
+- Pronóstico básico de demanda
 
-## ¿Qué problemas resuelve?
-- Detectar tiendas que venden bien y tiendas que requieren ajustes
-- Reducir inventario detenido que inmoviliza dinero
-- Identificar qué canal realmente deja más utilidad
-- Anticipar qué productos se venderán más por temporada
-
-## ¿Qué se entrega?
-- Tableros visuales fáciles de interpretar
-- Recomendaciones claras para toma de decisiones
-- Indicadores clave explicados en lenguaje simple
-
-> Nota: Los datos utilizados son simulados, pero reflejan escenarios reales
-> de una empresa de retail como MAJA Sportswear.
+## Herramientas
+- Excel
+- MySQL
+- Power BI
+- GitHub
